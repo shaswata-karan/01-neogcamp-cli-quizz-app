@@ -1,4 +1,4 @@
-# 01-neogcamp-cli-quizz-app
+# neogcamp-cli-quizz-app
 ### Project: Do you know me? CLI Quiz App
 
 ### Sub-tasks:
